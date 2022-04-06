@@ -1,0 +1,15 @@
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+D:\code_projetos\gitHub\Dio\Introducao C#\Projeto\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
