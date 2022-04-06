@@ -1,4 +1,5 @@
 ﻿using System;
+using Dio.Series.Classes;
 
 namespace Dio.Series
 {
@@ -8,7 +9,7 @@ namespace Dio.Series
         {
             // EntidadeBase minhaClasse = new EntidadeBase();
 
-            Serie meuObjeto = new Serie();
+            // Serie meuObjeto = new Serie();
         }
     }
 }
